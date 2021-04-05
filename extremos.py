@@ -2,7 +2,7 @@ def extremos (a, b):
     final = []
     cuenta = 0
     while a <= b:
-        dicc = {a:a*a}
+        dicc = {a:a-1}
         final.append(dicc)
         a = a + 1
     return final
