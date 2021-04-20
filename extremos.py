@@ -6,4 +6,4 @@ def extremos (a, b):
         final.append(dicc)
         a = a + 1
     return final
-print (extremos(2, 4))
+print (extremos(2, 6))
