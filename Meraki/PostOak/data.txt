@@ -1,0 +1,5 @@
+ networkId	              mac	              lanIp	            serial       name
+L_3677189095748011103	 98:18:88:47:d3:9c  192.168.128.10   Q2LW-8BHH-VKYA  lab
+L_754915887537979428	98:18:88:47:cd:5c	10.10.0.251	     Q2LW-89GD-FL29  Houston Edge Switch 
+L_609674799555294463	68:3a:1e:60:d3:a8	10.10.100.20	 Q2SX-8KZQ-D9L4  Bay 9
+

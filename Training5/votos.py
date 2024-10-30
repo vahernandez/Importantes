@@ -1,6 +1,7 @@
 """
 Realizar un programa que cuente los votos de un partido y en caso de que una persona vote
 por un partido que no este en la base de datos se el partido con un voto
+se agrega comentarios
 """
 
 voto = {}
