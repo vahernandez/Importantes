@@ -1,0 +1,21 @@
+conda env export > entorno.yml      te mueves al entorno del que quieres exportar sus tuneos
+conda env create > -f entorno.yml    te mueves al entorno donde quieres importar el tuneo en yml guardado previamente
+conda env list
+conda create -n nombre
+cond list
+conda activate 
+conda create -n web python=3.12
+conda update pandas
+pandas anaconda.cloud
+conda update conda  toda la suite de conda
+conda remove --name netAut --all
+https://anaconda.org/anaconda/repo
+
+
+workaround virtual envs
+0. conda create -n web python=3.12
+1. conda activate web     # por ejemplo
+2. Cuando se crea un ambiente nuevo se tiene que cerrar Cursor y abrirlo de nuevo
+3. Ctrl + shift + p   y  ponemos:  "python:Select interpreter"  y seleccionamos "web"
+4. Pasamos el raton por "Powershell" y dar click en "Relaunch terminal" y lo mismo con "Python"
+5. Ya debe desaparecer la alerta amarilla en powershell y python, para comprobar conda env list
