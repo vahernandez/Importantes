@@ -1,2 +1,0 @@
- networkId	              mac	       lanIp	         serial
-L_3677189095748011103	 98:18:88:47:d3:9c  192.168.128.10   Q2LW-8BHH-VKYA

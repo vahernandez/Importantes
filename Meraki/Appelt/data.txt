@@ -1,7 +1,0 @@
- networkId	           interface ID                 mac	              lanIp	            serial       name
-
-L_754915887537980062	  754915887537981876    34:56:fe:a8:58:c0	10.50.0.251     Q2LW-3D2D-LP5T  Appelt Border Switch   Antes de la MW esta es la info del svi 1
-
-
-Network Id cambia por cada sitio y se puede sacar con el script de inventory
-Interface Id es el identificador de cada svi del switch Core.

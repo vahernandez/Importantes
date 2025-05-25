@@ -1,7 +1,0 @@
- networkId	           interface ID                 mac	              lanIp	            serial       name
-
-L_754915887537980425	  754915887537980885    98:18:88:47:ce:dc	10.40.0.251     Q2LW-8A2B-5GJM  Butler Border Switch   Antes de la MW esta es la info del svi 1
-
-
-Network Id cambia por cada sitio y se puede sacar con el script de inventory
-Interface Id es el identificador de cada svi del switch Core.
